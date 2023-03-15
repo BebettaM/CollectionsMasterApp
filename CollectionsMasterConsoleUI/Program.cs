@@ -117,7 +117,7 @@ namespace CollectionsMasterConsoleUI
             Console.WriteLine("------------------");
 
             //TODO: Sort the list then print results
-            Console.WriteLine("Sorted Odds!!");
+            Console.WriteLine("Sorted even!!");
             numList.Sort();
             NumberPrinter(numList);
 
